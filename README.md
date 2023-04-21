@@ -47,7 +47,7 @@ This is the Link to the [Frontend Repository](https://github.com/jonathanmunamir
 
 ### Live Demo <a name="live-demo"></a>
 
-[Live Demo coming soon](https://github.com/jonathanmunamire/hello-rails-back-end)
+Live Demo coming soon
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
