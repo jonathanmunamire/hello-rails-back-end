@@ -32,6 +32,8 @@ The App was built with:
 
 - Ruby On Rails
 
+This is the Link to the [Frontend Repository](https://github.com/jonathanmunamire/hello-react-front-end)
+
 ### Tech Stack <a name="tech-stack"></a>
 
   <ul>
